@@ -1,0 +1,6 @@
+*.pdf
+*.html
+*_cache/
+*_files/
+.Rhistory
+.RData
